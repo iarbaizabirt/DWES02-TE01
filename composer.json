@@ -1,0 +1,13 @@
+{
+    "name": "dwes02/gestion-vehiculos",
+    "description": "Aplicación MVC para la gestión de vehículos",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.0"
+    }
+}
